@@ -284,4 +284,8 @@ a {
 	.message {
 		width: 70%;
 	}
+	
+	.chat-main {
+		height: 60vh;
+	}
 }
