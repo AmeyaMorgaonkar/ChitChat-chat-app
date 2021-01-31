@@ -263,6 +263,7 @@ a {
 	padding: 5px;
 	height: 40px;
 	flex: 1;
+	z-index: 10;
 }
 
 
