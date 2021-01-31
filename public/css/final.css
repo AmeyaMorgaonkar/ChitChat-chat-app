@@ -251,6 +251,7 @@ a {
 .chat-form-container {
 	padding: 20px 30px;
 	background-color: var(--dark-color-a);
+	z-index: 10;
 }
 
 .chat-form-container form {
@@ -262,7 +263,6 @@ a {
 	padding: 5px;
 	height: 40px;
 	flex: 1;
-	z-index: 10;
 }
 
 
